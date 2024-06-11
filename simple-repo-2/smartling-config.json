@@ -43,8 +43,8 @@
          {
             "type"                      : "json",
             "authorizeContent"          : "false",
-            "pathRegex"                 : "simpleRepo\\/simple.json",
-            "translationPathExpression" : "simpleRepo/${locale}/${originalFile.name}",
+            "pathRegex"                 : "simple-repo-2\\/simplerepo2.json",
+            "translationPathExpression" : "simple-repo-2/${locale}/${originalFile.name}",
             "smartlingDirectives"       : [
                  "smartling.placeholder_format_custom = (\\$\\{[^\\}]+?\\})|(&[\\w\\d]+?;)",
                  "smartling.variants_enabled = true"
